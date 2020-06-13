@@ -1,0 +1,75 @@
+li.red {
+	color:red;
+}
+p.red {
+	color:red;
+}
+body {
+	background:black;
+}
+h1#red {
+	color:red;
+}
+li.white{
+	color:white;
+}
+p.white{
+	color:white;
+}
+h1.white{
+	color:white;
+}
+th.white{
+	color:white;
+}
+td.white{
+	color:white;
+}
+button#red{
+	color:red;
+}
+h2.white{
+	color:white;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, td, th {  
+  border: 3px solid white;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 35%;
+}
+
+th, td {
+  padding: 7px;
+}
+th {
+  background-color: #cc0000;
+  color: white;
+}
+img.white{
+	color:white;
+}
+button.buttonNetflix {
+	background-color: #000000;
+	border: 2px solid #B60808;
+	color: red;
+	padding: 5px 15px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 25px;
+	margin: 4px 2px;
+	transition-duration: 0.3s;
+	cursor: pointer;
+}
+button.buttonNetflix:hover {
+	background-color:#B60808;
+	color:white;
+}
